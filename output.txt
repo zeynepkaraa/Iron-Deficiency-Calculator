@@ -1,0 +1,46 @@
+/usr/local/bin/python3 "/Users/macbookpro/Desktop/work/assignment 1.py"
+macbookpro@Zeynep-Kara work % /usr/local/bin/python3 "/Users/macbookpro/Desktop/work/assignment 1.py"
+Please enter your age: 20
+Please enter your weight in kg : 53
+Please enter your gender: female
+Please enter your hgLevel in first lab result: 118
+Please enter your hgLevel in second lab result: 125
+Please enter your hgLevel in third lab result: 140
+Please enter your hgLevel in fourth lab result: 165
+If your hg level is 118 ,you have iron deficiency of 779 mg
+If your hg level is 125 ,you have iron deficiency of 1072 mg
+If your hg level is 140 ,you have adequate iron in your blood.
+If your hg level is 165 ,you have adequate iron in your blood.
+[779, 1072, 0, 0]
+For deficiency of 779 mg you need to take one 18 mg tablet iron for 43 days. 
+For deficiency of 1072 mg you need to take one 18 mg tablet iron for 59 days. 
+macbookpro@Zeynep-Kara work % /usr/local/bin/python3 "/Users/macbookpro/Desktop/work/assignment 1.py"
+Please enter your age: 51
+Please enter your weight in kg : 75
+Please enter your gender: male
+Please enter your hgLevel in first lab result: 120
+Please enter your hgLevel in second lab result: 137
+Please enter your hgLevel in third lab result: 150
+Please enter your hgLevel in fourth lab result: 170
+If your hg level is 120 ,you have iron deficiency of 1400 mg
+If your hg level is 137 ,you have adequate iron in your blood.
+If your hg level is 150 ,you have adequate iron in your blood.
+If your hg level is 170 ,you have adequate iron in your blood.
+[1400, 0, 0, 0]
+For deficiency of 1400 mg you need to take one 18 mg tablet iron for 77 days. 
+macbookpro@Zeynep-Kara work % /usr/local/bin/python3 "/Users/macbookpro/Desktop/work/assignment 1.py"
+Please enter your age: 5
+Please enter your weight in kg : 32
+Please enter your gender: female
+Please enter your hgLevel in first lab result: 97
+Please enter your hgLevel in second lab result: 113
+Please enter your hgLevel in third lab result: 130
+Please enter your hgLevel in fourth lab result: 140
+If your hg level is 97 ,you have iron deficiency of 810 mg
+If your hg level is 113 ,you have iron deficiency of 687 mg
+If your hg level is 130 ,you have adequate iron in your blood.
+If your hg level is 140 ,you have adequate iron in your blood.
+[810, 687, 0, 0]
+For deficiency of 810 mg you need to take one 18 mg tablet iron for 45 days. 
+For deficiency of 687 mg you need to take one 18 mg tablet iron for 38 days. 
+macbookpro@Zeynep-Kara work % 
